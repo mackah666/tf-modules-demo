@@ -6,6 +6,9 @@
 *.tfstate
 *.tfstate.*
 
+# .svg files
+*.svg
+
 # Crash log files
 crash.log
 
